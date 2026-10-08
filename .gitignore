@@ -1,0 +1,11 @@
+# Excel temporary lock files (created while a workbook is open)
+~$*
+
+# Operating system clutter
+.DS_Store
+.Thumbs.db 
+desktop.ini
+
+#credentials - never commit these
+.env
+*service-account*.json
